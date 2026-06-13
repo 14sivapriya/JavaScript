@@ -1,0 +1,27 @@
+<html>
+<head>
+    <title>Toggle Color</title>
+</head>
+<body>
+    <h1 id="msg">Hello Siva</h1>
+    <button id="btn">
+        Toggle Color
+    </button>
+</body>
+</html>
+
+
+<script>
+let msg=document.getElementById("msg");
+let btn=document.getElementById("btn");
+let isRed=true;
+btn.addEventListener("click",()=>{
+    if(isRed){
+        msg.style.color="blue";
+    }
+    else{
+        msg.style.color="red";
+    }
+    isRed=!isRed;
+});
+</script>
