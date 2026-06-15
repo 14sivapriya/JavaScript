@@ -1,23 +1,25 @@
 # JavaScript Learning Journey
 
-This repository documents my JavaScript learning journey as I work toward becoming a MERN Stack Developer.
+This repository documents a portion of my JavaScript learning journey as I work toward becoming a MERN Stack Developer.
 
-I already have a basic understanding of HTML, CSS, and core JavaScript concepts. This repository focuses on my continued learning, hands-on practice, and exploration of more advanced JavaScript topics.
+I already have a basic understanding of HTML, CSS, and core JavaScript concepts. The files in this repository represent selected practice exercises and experiments rather than every topic I have studied.
 
-The purpose of this repository is to:
+The main purpose of this repository is to practice JavaScript concepts while becoming comfortable with Git and GitHub workflows, including creating repositories, making commits, pushing changes, pulling updates, and maintaining code through version control.
 
-* Track my learning progress
-* Strengthen my JavaScript fundamentals through practice
+Not every JavaScript concept I learn is documented here. As my learning progressed, I found that documenting every small topic was not practical. Instead, this repository contains selected exercises that helped me practice coding and build confidence using Git and GitHub as part of my development workflow.
+
+## Purpose
+
+* Practice JavaScript through hands-on coding
+* Become comfortable with Git and GitHub workflows
 * Build consistency in coding
-* Document my growth as a developer
-* Prepare for full-stack development with the MERN stack
+* Learn and apply version control in a practical way
+* Prepare for larger project-based learning
 
-This repository serves as a record of my learning process, experiments, and coding exercises as I continue improving my development skills.
+## Next Step
 
-## Goal
-
-To build a strong foundation in JavaScript and progress toward becoming a skilled MERN Stack Developer through continuous learning and practical implementation.
+My focus is now shifting toward building projects and applying these concepts in real-world applications.
 
 ---
 
-*"Learning one step at a time, building one concept at a time."*
+*Learning by building and improving through consistent practice.*
